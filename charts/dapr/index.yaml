@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dapr:
+  - apiVersion: v1
+    appVersion: 1.9.5
+    created: "2024-01-03T14:44:58.142122+08:00"
+    description: A Helm chart for Dapr on Kubernetes
+    digest: b144f41077d1d10e523e7c5810e2ec843c5264de74a4850469622a1881a72a88
+    name: dapr
+    urls:
+    - https://JasonZhuang23.github.io/debug-charts/dapr-1.9.5.tgz
+    version: 1.9.5
+generated: "2024-01-03T14:44:58.140539+08:00"
